@@ -1,0 +1,6 @@
+error description: 
+Java EE file can not be apploy
+"Cannot deploy 'apps name' deploy is failing=Application with name ['apps name'] "
+Solution:
+1. reactor the name with "rename";
+2. unistall GlassFish server and install again.
